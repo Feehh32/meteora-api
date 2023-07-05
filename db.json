@@ -8,6 +8,7 @@
             },
             "titulo": "Camiseta Conforto",
             "descricao": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
+            "categoria": "Camisetas",
             "preco": 70.00,
             "id": "1"
         },
@@ -19,6 +20,7 @@
             },
             "titulo": "Calça Alfaiataria",
             "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
+            "categoria": "Calças",
             "preco": "180.00",
             "id": "2"
         },
@@ -30,6 +32,7 @@
             },
             "titulo": "Tênis Chunky",
             "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
+            "categoria": "Calçados",
             "preco": "250.00",
             "id": "3"
         },
@@ -41,6 +44,7 @@
             },
             "titulo": "Jaqueta Jeans",
             "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
+            "categoria": "Casacos",
             "preco": "150.00",
             "id": "4"
         },
@@ -52,6 +56,7 @@
             },
             "titulo": "Óculos Redondo",
             "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
+            "categoria": "Óculos",
             "preco": "120.00",
             "id": "5"
         },
@@ -63,6 +68,7 @@
             },
             "titulo": "Bolsa coringa",
             "descricao": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
+            "categoria": "Bolsas",
             "preco": "120.00",
             "id": "6"
         }
